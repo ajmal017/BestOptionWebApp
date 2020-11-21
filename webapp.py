@@ -3,7 +3,7 @@
 """
 Created on Tue Nov 17 16:34:22 2020
 
-@author: Marco
+@author: Marco Marrrone
 """
 
 import yfinance as yf
